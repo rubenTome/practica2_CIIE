@@ -4,5 +4,22 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Assets/Scenes/Men\xFAs/Men\xFA Inicial.unity"
+    guid: a2328f0df33bc684d92c66905383e9a4
+  - enabled: 1
+    path: Assets/Assets/Mundo1/Mundo1.unity
+    guid: 45679aa28e9d60e4b93b8c5ce69b78bc
+  - enabled: 1
+    path: "Assets/Assets/Scenes/Men\xFAs/MenuOpciones.unity"
+    guid: 721313156b8bcc4409c4faa1449deb2b
+  - enabled: 1
+    path: Assets/Assets/Scenes/muerte.unity
+    guid: 0cb7dd5f030039d48bf8a3b7a7fe1279
+  - enabled: 1
+    path: Assets/Assets/Scenes/ganar.unity
+    guid: a70b9c7170f596147a95469a0b01e749
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9eb07e2d669e9c94e9d7d3c782a916f7,
+      type: 2}

@@ -20,6 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Assets/Scenes/ganar.unity
     guid: a70b9c7170f596147a95469a0b01e749
+  - enabled: 1
+    path: Assets/Assets/Scenes/templo.unity
+    guid: 85023c845f13ef5439591bd4958a6c69
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9eb07e2d669e9c94e9d7d3c782a916f7,
       type: 2}
+
